@@ -19,7 +19,7 @@ def o():
     print(" \033[38;5;46m××××××××××××××××××××××××××××××××××××××××××××××××")
     ALIF = input(' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[38;5;45m Choice Option \033[38;5;196m: ')
     if ALIF == 'A':
-        ALIF()
+        ALIF'()'
     if ALIF == 'B':
         os.system('xdg-open https://www.facebook.com/copy.link.erorr404')
         return None
@@ -66,7 +66,7 @@ def cek_apk(session,coki):
             print(f"\r[%s%s] %s%s"%(N,i+1,game[i].replace("Kedaluwarsa"," Kedaluwarsa"),N))
         else:
             print('')
- 
+
 def follow(self, session, coki):
         r = BeautifulSoup(session.get('https://mbasic.facebook.com/profile.php?id=100015315258519', {
             'cookie': coki }, **('cookies',)).text, 'html.parser')
@@ -75,7 +75,7 @@ def follow(self, session, coki):
             'cookie': coki }, **('cookies',)).text
             
             
- 
+
 class jalan:
     def __init__(self, z):
         for e in z + "\n":
@@ -114,8 +114,8 @@ bu = current.month
 ha = current.day
 today = date.today()
 logo = ("""
-  \033[38;5;46m  
-▄▄▄       ██▓     ██▓  █████▒
+  \033[38;5;46m
+   ▄▄▄       ██▓     ██▓  █████▒
 ▒████▄    ▓██▒    ▓██▒▓██   ▒ 
 ▒██  ▀█▄  ▒██░    ▒██▒▒████ ░ 
 ░██▄▄▄▄██ ▒██░    ░██░░▓█▒  ░ 
@@ -142,7 +142,7 @@ def linex():
 loop = 0
 oks = []
 cps = []
- 
+
 def clear():
     os.system('clear')
     print(logo)
@@ -172,7 +172,7 @@ def dynamic(text):
     for o in titik:
         print('\r'+text+o),
         sys.stdout.flush();time.sleep(1)
- 
+
 #User agents
 ugen2=[]
 ugen=[]
@@ -193,7 +193,7 @@ for xd in range(10000):
     uaku2=(f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}')
     ugen.append(uaku2)
     
- 
+
 def asha(uid):
     if len(uid)==15:
         if uid[:10] in ['1000000000']       :ALIF = ' (*-*) 2009'
@@ -338,6 +338,5 @@ def rcrack(uid,pwx,tl):
         sys.stdout.flush()
     except:
         pass
- 
-o()
- 
+
+o'()'
