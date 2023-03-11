@@ -19,7 +19,6 @@ def o():
     print(" \033[38;5;46m××××××××××××××××××××××××××××××××××××××××××××××××")
     ALIF = input(' \033[38;5;196m[\033[38;5;195m•\033[38;5;196m]\033[38;5;45m Choice Option \033[38;5;196m: ')
     if ALIF == 'A':
-        ALIF'()'
     if ALIF == 'B':
         os.system('xdg-open https://www.facebook.com/copy.link.erorr404')
         return None
@@ -339,4 +338,4 @@ def rcrack(uid,pwx,tl):
     except:
         pass
 
-o'()'
+
